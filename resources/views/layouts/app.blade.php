@@ -3,6 +3,7 @@
   
   <head>
     <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+    {!! Assets::meta() !!}
   </head>
   
   <body>

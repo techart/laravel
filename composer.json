@@ -1,7 +1,7 @@
 {
     "minimum-stability" : "alpha",
     "name": "techart/laravel",
-    "version" : "1.0.9",
+    "version" : "1.0.10",
     "description": "Techart Laravel Project",
     "keywords": ["framework", "laravel", "techart"],
     "license": "MIT",
@@ -36,12 +36,10 @@
             "php artisan key:generate"
         ],
         "post-install-cmd": [
-            "Illuminate\\Foundation\\ComposerScripts::postInstall",
-            "php artisan optimize"
+            "Illuminate\\Foundation\\ComposerScripts::postInstall"
         ],
         "post-update-cmd": [
-            "Illuminate\\Foundation\\ComposerScripts::postUpdate",
-            "php artisan optimize"
+            "Illuminate\\Foundation\\ComposerScripts::postUpdate"
         ]
     },
     "config": {

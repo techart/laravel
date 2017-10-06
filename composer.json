@@ -1,7 +1,7 @@
 {
     "minimum-stability" : "alpha",
     "name": "techart/laravel",
-    "version" : "1.0.10",
+    "version" : "1.0.11",
     "description": "Techart Laravel Project",
     "keywords": ["framework", "laravel", "techart"],
     "license": "MIT",
@@ -33,7 +33,6 @@
             "php -r \"file_exists('.env') || copy('.env.example', '.env');\""
         ],
         "post-create-project-cmd": [
-            "php artisan key:generate"
         ],
         "post-install-cmd": [
             "Illuminate\\Foundation\\ComposerScripts::postInstall"

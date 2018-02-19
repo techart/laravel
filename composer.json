@@ -1,14 +1,14 @@
 {
     "minimum-stability" : "alpha",
     "name": "techart/laravel",
-    "version" : "1.0.11",
+    "version" : "1.0.12",
     "description": "Techart Laravel Project",
     "keywords": ["framework", "laravel", "techart"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.6.4",
-        "techart/laravel-tao": ">=3.0"
+        "php": ">=7.0",
+        "techart/tao3": ">=3.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

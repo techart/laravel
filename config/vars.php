@@ -1,8 +1,9 @@
-<?php return [
+<?php
 
-    'groups' => [
-    ],
-    
-    'vars' => [
-    ],
+return [
+	'groups' => [
+	],
+	    
+	'vars' => [
+	],
 ];

@@ -5,7 +5,7 @@
 ## Установка
 
 ```
-composer create-project --prefer-dist techart/laravel <dir>
+composer create-project --prefer-dist techart/tao3 <dir>
 ```
 
 ## Настройка

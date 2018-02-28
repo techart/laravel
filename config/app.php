@@ -1,4 +1,5 @@
 <?php
+
 return tao_cfg('app', [
-    'name' => 'TAO Test',
+	'name' => 'TAO Test',
 ]);

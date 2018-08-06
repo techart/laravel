@@ -1,0 +1,8 @@
+project example.ru
+essh site.example.ru
+
+ln /storage/app/public
+
+cp .env
+
+rsyncd vendor

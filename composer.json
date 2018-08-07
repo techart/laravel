@@ -1,7 +1,7 @@
 {
     "minimum-stability" : "alpha",
     "name": "techart/laravel",
-	"version": "1.0.19",
+	"version": "1.0.20",
     "description": "Techart Laravel Project",
     "keywords": ["framework", "laravel", "techart"],
     "license": "MIT",

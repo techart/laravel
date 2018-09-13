@@ -4,5 +4,5 @@ essh site.example.ru
 ln /storage/app/public
 
 cp .env
-
+prepare vcomposer install
 rsyncd vendor

@@ -1,7 +1,7 @@
 {
 	"minimum-stability": "alpha",
 	"name": "techart/laravel",
-	"version": "1.0.23",
+	"version": "1.1.23",
 	"description": "Techart Laravel Project",
 	"keywords": [
 		"framework",
@@ -12,7 +12,7 @@
 	"type": "project",
 	"require": {
 		"php": ">=7.0",
-		"techart/tao3": ">=3.1"
+		"techart/tao3": ">=3.4"
 	},
 	"require-dev": {
 		"fzaninotto/faker": "~1.4",

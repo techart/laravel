@@ -2,6 +2,7 @@ project example.ru
 essh site.example.ru
 
 ln /storage/app/public
+ln /storage/app/vars
 
 cp .env
 prepare vcomposer install

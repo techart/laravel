@@ -9,6 +9,8 @@ npm-debug.log
 
 /www/storage
 /storage/framework
+/storage/app/public
+/storage/app/vars
 
 .env
 *.log

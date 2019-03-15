@@ -2,13 +2,11 @@
 /vendor
 npm-debug.log
 
-/bootstrap/cache
 /www/tao
 /www/builds
 /www/sitemap.xml
 
 /www/storage
-/storage/framework
 /storage/app/public
 /storage/app/vars
 

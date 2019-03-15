@@ -1,5 +1,4 @@
-project example.ru
-essh site.example.ru
+project %%PROJECT_NAME%%
 
 ln /storage/app/public
 ln /storage/app/vars

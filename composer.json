@@ -1,7 +1,7 @@
 {
 	"minimum-stability": "alpha",
 	"name": "techart/laravel",
-	"version": "4.0.0",
+	"version": "4.0.1",
 	"description": "Techart Laravel Project",
 	"keywords": [
 		"framework",
@@ -11,7 +11,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"php": "~7.1.3",
+		"php": "~7.1",
 		"techart/tao3": "~4.0"
 	},
 	"autoload": {

@@ -2,6 +2,6 @@
 
 return tao_cfg('auth', [
 	'extra' => [
-		'url' => 'http://office.techart.ru/project11393/siteadmin/',
+		'url' => 'https://office.techart.ru/project11393/siteadmin/',
 	],
 ]);

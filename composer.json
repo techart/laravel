@@ -1,7 +1,7 @@
 {
 	"minimum-stability": "alpha",
 	"name": "techart/laravel",
-	"version": "8.0.0",
+	"version": "10.0.0",
 	"description": "Techart Laravel Project",
 	"keywords": [
 		"framework",
